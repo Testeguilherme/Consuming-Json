@@ -1,4 +1,4 @@
-package com.api.omdb.entities;
+package com.api.omdb.omdbAPI;
 
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;

@@ -1,9 +1,8 @@
-package com.api.omdb.entities;
+package com.api.omdb.omdbAPI;
 
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonProperty;
-import com.google.gson.annotations.SerializedName;
 
 @JsonIgnoreProperties(ignoreUnknown=true)
 public class Titulo {
